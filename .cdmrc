@@ -1,0 +1,2 @@
+tabs: ["src/routes/index.tsx", "src/root.tsx"]
+terminals: ["yarn install && yarn dev"]
